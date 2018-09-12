@@ -2,7 +2,11 @@
 
 EventDispatcher.lua
 
+Author: nomusics (nomusics@gmail.com)
+
 Version: 1.0.0
+
+Latest code: https://github.com/nomusics/EventDispatcher.lua
 
 ---------------------------------------------------------------------------
 使用方式
